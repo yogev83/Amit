@@ -28,6 +28,6 @@
   },
   "dependencies": {
     "browser-sync": "^2.26.7",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   }
 }
